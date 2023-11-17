@@ -1,0 +1,5 @@
+Properties:
+  output_location: \my_pyspark_project\src\main\resources\output_data.csv
+
+database:
+  host: 123

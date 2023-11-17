@@ -1,0 +1,5 @@
+Properties:
+  input_location: \my_pyspark_project\src\main\resources\input_data.csv
+
+database:
+  host: 123
